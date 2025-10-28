@@ -4,7 +4,7 @@ This project implements a Blue/Green deployment pattern using Nginx as a reverse
 It ensures zero-downtime by automatically switching traffic to the Green instance when the Blue instance fails.
 
 
-## ⚙️ Components
+# Components
 
 | Service | Description | Port |
 |----------|--------------|------|
@@ -14,8 +14,8 @@ It ensures zero-downtime by automatically switching traffic to the Green instanc
 
 ---
 
-##  How to Run Locally
+# How to Run Locally
 Clone the repo
 bash run the below command
 git clone https://github.com/Amazingpanam/hng13-stage2-devops.git
-cd hng13-stage2-devops
+cd hng-stage2-devops
